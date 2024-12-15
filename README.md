@@ -1,3 +1,3 @@
-# learn-pub-sub-starter (Peril)
+# Pub-sub(Peril)
 
-This is the starter code used in Boot.dev's [Learn Pub/Sub](https://learn.boot.dev/learn-pub-sub) course.
+Pup sub architecure for peril game
